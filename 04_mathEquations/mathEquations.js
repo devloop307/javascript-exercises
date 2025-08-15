@@ -1,4 +1,4 @@
-const a = 1 - 1 // Freebie!!! This is the answer to "one minus one"
+const a = 1 - 1
 const b = 1 + 8
 const c = 3 * 22
 const d = 5 % 4
